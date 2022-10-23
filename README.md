@@ -21,6 +21,12 @@
 
 #### ⭐ Recent Stars
 
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (today)
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode (2 weeks ago)
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (8 months ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (8 months ago)
+
+#### 👯 Check out some of my recent followers
+
+- [emyl3](https://github.com/emyl3)
+- [bobbywells52](https://github.com/bobbywells52)
