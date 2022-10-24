@@ -30,8 +30,6 @@
 #### ⭐ Recent Stars
 
 - [skylight-hq/utilization-dashboard](https://github.com/skylight-hq/utilization-dashboard) -  (1 day ago)
-- [SpielBorg/DeveloperOperations](https://github.com/SpielBorg/DeveloperOperations) - This is a repo to put ideas and general concepts to think about when pathfinding, designing, planning, implementing and maintaining Infrastructure. (1 day ago)
-- [SpielBorg/serverbot](https://github.com/SpielBorg/serverbot) -  (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 day ago)
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode (2 weeks ago)
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (8 months ago)
