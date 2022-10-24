@@ -19,6 +19,14 @@
 - [fix issue creation action](https://github.com/CDCgov/prime-simplereport/pull/4418) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [Dependabot wants to help.](https://github.com/CDCgov/prime-simplereport/pull/4413) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
+#### 📓 Gists I wrote
+
+- [](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41) (today)
+- [](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff) (today)
+- [](https://gist.github.com/60fe04c78d86f2bfb5bbf02484826ebe) (today)
+- [](https://gist.github.com/7845bd98166fd71f05bf829631b23ba7) (today)
+- [](https://gist.github.com/9699391ec294501cedf13f5a5fe5ce90) (1 day ago)
+
 #### ⭐ Recent Stars
 
 - [skylight-hq/utilization-dashboard](https://github.com/skylight-hq/utilization-dashboard) -  (1 day ago)
