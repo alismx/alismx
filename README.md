@@ -21,11 +21,11 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41) (today)
-- [](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff) (today)
-- [](https://gist.github.com/60fe04c78d86f2bfb5bbf02484826ebe) (today)
-- [](https://gist.github.com/7845bd98166fd71f05bf829631b23ba7) (today)
-- [](https://gist.github.com/9699391ec294501cedf13f5a5fe5ce90) (1 day ago)
+- [GitHub workflow to run format, validation, and plan checks against Terraform configuration.](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41) (today)
+- [GitHub action and workflow to set swap space. It feels hacky. Use it if you are running into memory issues on large builds.](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff) (today)
+- [GitHub workflow to run lighthouse (performance, accessibility, best practices, SEO, PWA scanning) and upload results as artifacts.](https://gist.github.com/60fe04c78d86f2bfb5bbf02484826ebe) (today)
+- [GitHub workflow to build and push images to a docker registry.](https://gist.github.com/7845bd98166fd71f05bf829631b23ba7) (today)
+- [GitHub workflow to close issues as Dependabot PRs are closed. It searches GitHub issues based on labels and title strings.](https://gist.github.com/9699391ec294501cedf13f5a5fe5ce90) (1 day ago)
 
 #### ⭐ Recent Stars
 
