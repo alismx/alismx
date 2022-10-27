@@ -2,18 +2,18 @@
 
 #### 🚀 Check out what I'm currently working on
 
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 days ago)
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (4 days ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [fixes the terraform init command](https://github.com/CDCgov/prime-simplereport/pull/4598) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (today)
+- [update tf version for demo deploy](https://github.com/CDCgov/prime-simplereport/pull/4597) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (today)
 - [Remove -upgrade and -migrate-state from terraform init :arrow_up_down: ](https://github.com/CDCgov/prime-simplereport/pull/4594) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
 - [Stay up to date :newspaper: ](https://github.com/CDCgov/prime-simplereport-site/pull/386) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (3 days ago)
 - [Reviewer round-blue-bird :thinking: :bird: ](https://github.com/CDCgov/prime-simplereport-site/pull/385) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (3 days ago)
-- [Keeping up with the times :clock10: ](https://github.com/CDCgov/prime-simplereport/pull/4566) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
-- [I only run when I need to :runner: ](https://github.com/crazy-max/ghaction-github-labeler/pull/180) on [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) (3 days ago)
 
 #### 📓 Gists I wrote
 
