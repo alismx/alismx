@@ -2,7 +2,7 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (5 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (6 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 weeks ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (2 weeks ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (3 months ago)
@@ -10,9 +10,9 @@
 #### 🔨 My recent Pull Requests
 
 - [For now, build on all branches. :construction: ](https://github.com/CDCgov/prime-simplereport/pull/4641) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Upgrade minor versions of okta and pagerduty in Global :ok: :pager:](https://github.com/CDCgov/prime-simplereport/pull/4614) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [fixes the terraform init command](https://github.com/CDCgov/prime-simplereport/pull/4598) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [update tf version for demo deploy](https://github.com/CDCgov/prime-simplereport/pull/4597) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [Upgrade minor versions of okta and pagerduty in Global :ok: :pager:](https://github.com/CDCgov/prime-simplereport/pull/4614) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [fixes the terraform init command](https://github.com/CDCgov/prime-simplereport/pull/4598) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [update tf version for demo deploy](https://github.com/CDCgov/prime-simplereport/pull/4597) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [Remove -upgrade and -migrate-state from terraform init :arrow_up_down: ](https://github.com/CDCgov/prime-simplereport/pull/4594) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
 #### 📓 Gists I wrote
