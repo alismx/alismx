@@ -13,7 +13,7 @@
 - [Upgrade minor versions of okta and pagerduty in Global :ok: :pager:](https://github.com/CDCgov/prime-simplereport/pull/4614) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [fixes the terraform init command](https://github.com/CDCgov/prime-simplereport/pull/4598) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [update tf version for demo deploy](https://github.com/CDCgov/prime-simplereport/pull/4597) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
-- [Remove -upgrade and -migrate-state from terraform init :arrow_up_down: ](https://github.com/CDCgov/prime-simplereport/pull/4594) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [Remove -upgrade and -migrate-state from terraform init :arrow_up_down: ](https://github.com/CDCgov/prime-simplereport/pull/4594) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
