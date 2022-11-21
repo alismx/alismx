@@ -9,7 +9,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [For now, build on all branches. :construction: ](https://github.com/CDCgov/prime-simplereport/pull/4641) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [For now, build on all branches. :construction: ](https://github.com/CDCgov/prime-simplereport/pull/4641) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [Upgrade minor versions of okta and pagerduty in Global :ok: :pager:](https://github.com/CDCgov/prime-simplereport/pull/4614) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [fixes the terraform init command](https://github.com/CDCgov/prime-simplereport/pull/4598) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [update tf version for demo deploy](https://github.com/CDCgov/prime-simplereport/pull/4597) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
@@ -17,11 +17,11 @@
 
 #### 📓 Gists I wrote
 
-- [Bash function to check what is running on a specified IP.](https://gist.github.com/ce30489841fdedc021675981308a399e) (3 weeks ago)
-- [GitHub workflow to run format, validation, and plan checks against Terraform configuration.](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41) (3 weeks ago)
-- [GitHub action and workflow to set swap space. It feels hacky. Use it if you are running into memory issues on large builds.](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff) (3 weeks ago)
-- [GitHub workflow to run lighthouse (performance, accessibility, best practices, SEO, PWA scanning) and upload results as artifacts.](https://gist.github.com/60fe04c78d86f2bfb5bbf02484826ebe) (3 weeks ago)
-- [GitHub workflow to build and push images to a docker registry.](https://gist.github.com/7845bd98166fd71f05bf829631b23ba7) (3 weeks ago)
+- [Bash function to check what is running on a specified IP.](https://gist.github.com/ce30489841fdedc021675981308a399e) (4 weeks ago)
+- [GitHub workflow to run format, validation, and plan checks against Terraform configuration.](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41) (4 weeks ago)
+- [GitHub action and workflow to set swap space. It feels hacky. Use it if you are running into memory issues on large builds.](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff) (4 weeks ago)
+- [GitHub workflow to run lighthouse (performance, accessibility, best practices, SEO, PWA scanning) and upload results as artifacts.](https://gist.github.com/60fe04c78d86f2bfb5bbf02484826ebe) (4 weeks ago)
+- [GitHub workflow to build and push images to a docker registry.](https://gist.github.com/7845bd98166fd71f05bf829631b23ba7) (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
