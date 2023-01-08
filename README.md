@@ -2,15 +2,15 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (4 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (5 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (2 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Alert update](https://github.com/CDCgov/prime-simplereport/pull/4945) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
-- [update expiry](https://github.com/CDCgov/prime-simplereport/pull/4934) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
+- [Alert update](https://github.com/CDCgov/prime-simplereport/pull/4945) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
+- [update expiry](https://github.com/CDCgov/prime-simplereport/pull/4934) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
 - [Alis/azure upgrade](https://github.com/CDCgov/prime-simplereport/pull/4840) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [For now, build on all branches. :construction: ](https://github.com/CDCgov/prime-simplereport/pull/4641) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 months ago)
 - [Upgrade minor versions of okta and pagerduty in Global :ok: :pager:](https://github.com/CDCgov/prime-simplereport/pull/4614) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 months ago)
