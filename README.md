@@ -9,11 +9,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Alert update](https://github.com/CDCgov/prime-simplereport/pull/4945) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [check dev* container logs in prime-simple-report-dev resource group](https://github.com/CDCgov/prime-simplereport/pull/4982) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Alert update](https://github.com/CDCgov/prime-simplereport/pull/4945) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [update expiry](https://github.com/CDCgov/prime-simplereport/pull/4934) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Alis/azure upgrade](https://github.com/CDCgov/prime-simplereport/pull/4840) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
+- [Alis/azure upgrade](https://github.com/CDCgov/prime-simplereport/pull/4840) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [For now, build on all branches. :construction: ](https://github.com/CDCgov/prime-simplereport/pull/4641) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 months ago)
-- [Upgrade minor versions of okta and pagerduty in Global :ok: :pager:](https://github.com/CDCgov/prime-simplereport/pull/4614) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 months ago)
 
 #### 📓 Gists I wrote
 
