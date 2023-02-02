@@ -9,11 +9,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Alis/4644 cypress](https://github.com/CDCgov/prime-simplereport/pull/5186) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
 - [rollback without throwing error due to permissions issue](https://github.com/CDCgov/prime-simplereport/pull/5076) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [check dev* container logs in prime-simple-report-dev resource group](https://github.com/CDCgov/prime-simplereport/pull/4982) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [Alert update](https://github.com/CDCgov/prime-simplereport/pull/4945) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
-- [update expiry](https://github.com/CDCgov/prime-simplereport/pull/4934) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
-- [Alis/azure upgrade](https://github.com/CDCgov/prime-simplereport/pull/4840) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
+- [update expiry](https://github.com/CDCgov/prime-simplereport/pull/4934) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
 #### 📓 Gists I wrote
 
