@@ -2,18 +2,18 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 weeks ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (3 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (3 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (6 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Alis/4644 cypress](https://github.com/CDCgov/prime-simplereport/pull/5278) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Alis/azure upgrade followup](https://github.com/CDCgov/prime-simplereport/pull/5277) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
 - [Alis/4644 cypress](https://github.com/CDCgov/prime-simplereport/pull/5218) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Alis/4644 cypress](https://github.com/CDCgov/prime-simplereport/pull/5186) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [rollback without throwing error due to permissions issue](https://github.com/CDCgov/prime-simplereport/pull/5076) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
-- [check dev* container logs in prime-simple-report-dev resource group](https://github.com/CDCgov/prime-simplereport/pull/4982) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
-- [Alert update](https://github.com/CDCgov/prime-simplereport/pull/4945) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
 #### 📓 Gists I wrote
 
