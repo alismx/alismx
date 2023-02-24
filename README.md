@@ -2,18 +2,18 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (6 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (4 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (4 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (6 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade azurerm provider to 3.44](https://github.com/CDCgov/prime-simplereport/pull/5314) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [function apps for stg](https://github.com/CDCgov/prime-simplereport/pull/5288) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [upgrade okta and pagerduty providers](https://github.com/CDCgov/prime-simplereport/pull/5328) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Upgrade azurerm provider to 3.44](https://github.com/CDCgov/prime-simplereport/pull/5314) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [function apps for stg](https://github.com/CDCgov/prime-simplereport/pull/5288) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [dynamically set the start and expiry on azurerm_storage_account_sas](https://github.com/CDCgov/prime-simplereport/pull/5282) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Alis/4644 cypress](https://github.com/CDCgov/prime-simplereport/pull/5278) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Alis/azure upgrade followup](https://github.com/CDCgov/prime-simplereport/pull/5277) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
 
