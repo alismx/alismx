@@ -9,11 +9,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [upgrade okta and pagerduty providers](https://github.com/CDCgov/prime-simplereport/pull/5328) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Upgrade azurerm provider to 3.44](https://github.com/CDCgov/prime-simplereport/pull/5314) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [Cypress build on main](https://github.com/CDCgov/prime-simplereport/pull/5333) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [upgrade okta and pagerduty providers](https://github.com/CDCgov/prime-simplereport/pull/5328) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Upgrade azurerm provider to 3.44](https://github.com/CDCgov/prime-simplereport/pull/5314) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
 - [function apps for stg](https://github.com/CDCgov/prime-simplereport/pull/5288) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [dynamically set the start and expiry on azurerm_storage_account_sas](https://github.com/CDCgov/prime-simplereport/pull/5282) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Alis/4644 cypress](https://github.com/CDCgov/prime-simplereport/pull/5278) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
 
