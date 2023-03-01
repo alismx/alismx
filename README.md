@@ -9,11 +9,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Okta Global Config Update](https://github.com/CDCgov/prime-simplereport/pull/5363) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Fix: Hour duration for sas](https://github.com/CDCgov/prime-simplereport/pull/5360) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Cypress build on main](https://github.com/CDCgov/prime-simplereport/pull/5333) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
-- [upgrade okta and pagerduty providers](https://github.com/CDCgov/prime-simplereport/pull/5328) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [Upgrade azurerm provider to 3.44](https://github.com/CDCgov/prime-simplereport/pull/5314) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [azurerm_monitor_metric_alert update](https://github.com/CDCgov/prime-simplereport/pull/5369) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Okta Global Config Update](https://github.com/CDCgov/prime-simplereport/pull/5363) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Fix: Hour duration for sas](https://github.com/CDCgov/prime-simplereport/pull/5360) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Cypress build on main](https://github.com/CDCgov/prime-simplereport/pull/5333) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [upgrade okta and pagerduty providers](https://github.com/CDCgov/prime-simplereport/pull/5328) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
 
 #### 📓 Gists I wrote
 
