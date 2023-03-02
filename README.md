@@ -9,15 +9,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [azurerm_monitor_metric_alert update](https://github.com/CDCgov/prime-simplereport/pull/5369) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Okta Global Config Update](https://github.com/CDCgov/prime-simplereport/pull/5363) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [Fix: Hour duration for sas](https://github.com/CDCgov/prime-simplereport/pull/5360) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [Cypress build on main](https://github.com/CDCgov/prime-simplereport/pull/5333) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [upgrade okta and pagerduty providers](https://github.com/CDCgov/prime-simplereport/pull/5328) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [azurerm_monitor_metric_alert update](https://github.com/CDCgov/prime-simplereport/pull/5369) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Okta Global Config Update](https://github.com/CDCgov/prime-simplereport/pull/5363) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [Fix: Hour duration for sas](https://github.com/CDCgov/prime-simplereport/pull/5360) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [Cypress build on main](https://github.com/CDCgov/prime-simplereport/pull/5333) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [upgrade okta and pagerduty providers](https://github.com/CDCgov/prime-simplereport/pull/5328) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [Bash function to check what is running on a specified IP.](https://gist.github.com/ce30489841fdedc021675981308a399e) (4 months ago)
+- [Bash function to check what is running on a specified port.](https://gist.github.com/ce30489841fdedc021675981308a399e) (4 months ago)
 - [GitHub workflow to run format, validation, and plan checks against Terraform configuration.](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41) (4 months ago)
 - [GitHub action and workflow to set swap space. It feels hacky. Use it if you are running into memory issues on large builds.](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff) (4 months ago)
 - [GitHub workflow to run lighthouse (performance, accessibility, best practices, SEO, PWA scanning) and upload results as artifacts.](https://gist.github.com/60fe04c78d86f2bfb5bbf02484826ebe) (4 months ago)
