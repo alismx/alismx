@@ -2,18 +2,18 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (4 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (4 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [update function_app_memory_alert threshold to be set in bytes](https://github.com/CDCgov/prime-simplereport/pull/5387) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
-- [cleanup, build postgresql 14](https://github.com/CDCgov/prime-simplereport/pull/5386) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
-- [azurerm_monitor_metric_alert update](https://github.com/CDCgov/prime-simplereport/pull/5369) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
-- [Okta Global Config Update](https://github.com/CDCgov/prime-simplereport/pull/5363) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Fix: Hour duration for sas](https://github.com/CDCgov/prime-simplereport/pull/5360) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [enable test deploys](https://github.com/CDCgov/prime-simplereport/pull/5410) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [include a step to build report stream function app](https://github.com/CDCgov/prime-simplereport/pull/5407) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [update function_app_memory_alert threshold to be set in bytes](https://github.com/CDCgov/prime-simplereport/pull/5387) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
+- [cleanup, build postgresql 14](https://github.com/CDCgov/prime-simplereport/pull/5386) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [azurerm_monitor_metric_alert update](https://github.com/CDCgov/prime-simplereport/pull/5369) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
 
