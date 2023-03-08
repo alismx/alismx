@@ -9,10 +9,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [enable test deploys](https://github.com/CDCgov/prime-simplereport/pull/5410) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [include a step to build report stream function app](https://github.com/CDCgov/prime-simplereport/pull/5407) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [update function_app_memory_alert threshold to be set in bytes](https://github.com/CDCgov/prime-simplereport/pull/5387) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
-- [cleanup, build postgresql 14](https://github.com/CDCgov/prime-simplereport/pull/5386) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [enable test deploys](https://github.com/CDCgov/prime-simplereport/pull/5410) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [include a step to build report stream function app](https://github.com/CDCgov/prime-simplereport/pull/5407) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [update function_app_memory_alert threshold to be set in bytes](https://github.com/CDCgov/prime-simplereport/pull/5387) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [Postgresql 14 upgrade](https://github.com/CDCgov/prime-simplereport/pull/5386) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
 - [azurerm_monitor_metric_alert update](https://github.com/CDCgov/prime-simplereport/pull/5369) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
