@@ -2,17 +2,17 @@
 
 #### 🚀 Check out what I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (4 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (4 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Pass JAVA_HOME to gradle command](https://github.com/CDCgov/prime-simplereport/pull/5454) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Pass JAVA_HOME to gradle command](https://github.com/CDCgov/prime-simplereport/pull/5454) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Backend address pool for metabase (Test, Stg)](https://github.com/CDCgov/prime-simplereport/pull/5425) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [enable test deploys](https://github.com/CDCgov/prime-simplereport/pull/5410) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [include a step to build report stream function app](https://github.com/CDCgov/prime-simplereport/pull/5407) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [enable test deploys](https://github.com/CDCgov/prime-simplereport/pull/5410) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [include a step to build report stream function app](https://github.com/CDCgov/prime-simplereport/pull/5407) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [update function_app_memory_alert threshold to be set in bytes](https://github.com/CDCgov/prime-simplereport/pull/5387) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
 #### 📓 Gists I wrote
