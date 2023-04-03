@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🚀 Check out what I'm currently working on
+#### 🚀 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -15,9 +15,10 @@
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
+#### 👯 Recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
+#### ♾️ Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
