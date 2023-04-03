@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🚀 Check out what I'm currently working on
+#### 🚀 What I'm currently working on
 
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 weeks ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (5 months ago)
@@ -23,7 +23,7 @@
 - [GitHub workflow to run lighthouse (performance, accessibility, best practices, SEO, PWA scanning) and upload results as artifacts.](https://gist.github.com/60fe04c78d86f2bfb5bbf02484826ebe) (5 months ago)
 - [GitHub workflow to build and push images to a docker registry.](https://gist.github.com/7845bd98166fd71f05bf829631b23ba7) (5 months ago)
 
-#### 👯 Check out some of my recent followers
+#### 👯 Recent followers
 
 - [BobanL](https://github.com/BobanL)
 - [DanPaseltiner](https://github.com/DanPaseltiner)
@@ -31,4 +31,5 @@
 - [StevenSpeck](https://github.com/StevenSpeck)
 - [emyl3](https://github.com/emyl3)
 
+#### ♾️ Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
