@@ -13,7 +13,7 @@
 - [PostgreSQL 14 upgrade](https://github.com/CDCgov/prime-simplereport/pull/5514) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Pass JAVA_HOME to gradle command](https://github.com/CDCgov/prime-simplereport/pull/5454) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [Backend address pool for metabase (Test, Stg)](https://github.com/CDCgov/prime-simplereport/pull/5425) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
-- [enable test deploys](https://github.com/CDCgov/prime-simplereport/pull/5410) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
+- [enable test deploys](https://github.com/CDCgov/prime-simplereport/pull/5410) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
 #### 📓 Gists I wrote
 
