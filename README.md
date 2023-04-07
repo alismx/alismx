@@ -17,11 +17,11 @@
 
 #### 📓 Gists I wrote
 
+- [Python script to generate fake data](https://gist.github.com/ea13a03b628e2d682334c0adf38400c5) (today)
 - [Script to handle some liquibase commands related to checksums and rollbacks](https://gist.github.com/ac68b4781c7c500bf5c2aa9bd4aaff7c) (1 day ago)
 - [I put this in my profile so when I open a new tab I get some random ascii ¯\_(ツ)_/¯](https://gist.github.com/83356d96cf13b233743234e44baa31a9) (2 days ago)
 - [Bash function to check what is running on a specified port.](https://gist.github.com/ce30489841fdedc021675981308a399e) (5 months ago)
 - [GitHub workflow to run format, validation, and plan checks against Terraform configuration.](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41) (5 months ago)
-- [GitHub action and workflow to set swap space. It feels hacky. Use it if you are running into memory issues on large builds.](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff) (5 months ago)
 
 #### 👯 Recent followers
 
