@@ -9,9 +9,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5630) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5629) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [Rollback fixes](https://github.com/CDCgov/prime-simplereport/pull/5536) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5630) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5629) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Rollback fixes](https://github.com/CDCgov/prime-simplereport/pull/5536) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [PostgreSQL 14 upgrade](https://github.com/CDCgov/prime-simplereport/pull/5514) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [Pass JAVA_HOME to gradle command](https://github.com/CDCgov/prime-simplereport/pull/5454) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
