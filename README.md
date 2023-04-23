@@ -2,16 +2,16 @@
 
 #### 🚀 What I'm currently working on
 
-- [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (2 days ago)
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (5 months ago)
+- [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (3 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (4 days ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (6 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (6 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (8 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Alis/5546 cypress webkit](https://github.com/CDCgov/prime-simplereport/pull/5675) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Create .md issue templates](https://github.com/SpielBorg/.github/pull/1) on [SpielBorg/.github](https://github.com/SpielBorg/.github) (1 day ago)
+- [Alis/5546 cypress webkit](https://github.com/CDCgov/prime-simplereport/pull/5675) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Create .md issue templates](https://github.com/SpielBorg/.github/pull/1) on [SpielBorg/.github](https://github.com/SpielBorg/.github) (2 days ago)
 - [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5630) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5629) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Rollback fixes](https://github.com/CDCgov/prime-simplereport/pull/5536) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
