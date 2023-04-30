@@ -10,8 +10,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Alis upgrades](https://github.com/CDCgov/prime-simplereport/pull/5720) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [update minor versions for pagerduty, random, azurerm, and okta provid…](https://github.com/CDCgov/prime-simplereport/pull/5702) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [Alis upgrades](https://github.com/CDCgov/prime-simplereport/pull/5720) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [update minor versions for pagerduty, random, azurerm, and okta provid…](https://github.com/CDCgov/prime-simplereport/pull/5702) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
 - [Alis/5546 cypress webkit](https://github.com/CDCgov/prime-simplereport/pull/5675) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Create .md issue templates](https://github.com/SpielBorg/.github/pull/1) on [SpielBorg/.github](https://github.com/SpielBorg/.github) (1 week ago)
 - [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5630) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
