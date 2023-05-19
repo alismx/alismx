@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 week ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (4 weeks ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (6 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (6 months ago)
@@ -12,8 +12,8 @@
 
 - [Alis upgrades](https://github.com/CDCgov/prime-simplereport/pull/5720) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [Terraform Provider Updates](https://github.com/CDCgov/prime-simplereport/pull/5702) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
-- [Alis/5546 cypress webkit](https://github.com/CDCgov/prime-simplereport/pull/5675) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
-- [Create .md issue templates](https://github.com/SpielBorg/.github/pull/1) on [SpielBorg/.github](https://github.com/SpielBorg/.github) (3 weeks ago)
+- [Alis/5546 cypress webkit](https://github.com/CDCgov/prime-simplereport/pull/5675) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
+- [Create .md issue templates](https://github.com/SpielBorg/.github/pull/1) on [SpielBorg/.github](https://github.com/SpielBorg/.github) (4 weeks ago)
 - [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5630) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
 #### 📓 Gists I wrote
