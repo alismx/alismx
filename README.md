@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (5 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 month ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (7 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (7 months ago)
@@ -11,7 +11,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Alis upgrades](https://github.com/CDCgov/prime-simplereport/pull/5720) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
-- [Terraform Provider Updates](https://github.com/CDCgov/prime-simplereport/pull/5702) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
+- [Terraform Provider Updates](https://github.com/CDCgov/prime-simplereport/pull/5702) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [Alis/5546 cypress webkit](https://github.com/CDCgov/prime-simplereport/pull/5675) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [Create .md issue templates](https://github.com/SpielBorg/.github/pull/1) on [SpielBorg/.github](https://github.com/SpielBorg/.github) (1 month ago)
 - [Liquibase Actions](https://github.com/CDCgov/prime-simplereport/pull/5630) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
