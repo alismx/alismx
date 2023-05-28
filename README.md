@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 month ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (7 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (7 months ago)
@@ -10,9 +10,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [tfsec](https://github.com/CDCgov/prime-simplereport/pull/5878) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [tfsec](https://github.com/CDCgov/prime-simplereport/pull/5875) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [Slack message on path to production](https://github.com/CDCgov/prime-simplereport/pull/5871) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [tfsec](https://github.com/CDCgov/prime-simplereport/pull/5878) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [tfsec](https://github.com/CDCgov/prime-simplereport/pull/5875) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [Slack message on path to production](https://github.com/CDCgov/prime-simplereport/pull/5871) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
 - [Alis upgrades](https://github.com/CDCgov/prime-simplereport/pull/5720) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [Terraform Provider Updates](https://github.com/CDCgov/prime-simplereport/pull/5702) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
