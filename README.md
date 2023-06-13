@@ -2,8 +2,8 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (6 days ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 week ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 week ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 weeks ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 month ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (7 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (10 months ago)
@@ -11,8 +11,8 @@
 #### 🔨 My recent Pull Requests
 
 - [Postgresql parameters for db query investigations](https://github.com/CDCgov/prime-simplereport/pull/5915) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Test](https://github.com/CDCgov/prime-simplereport/pull/5896) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Link checker](https://github.com/CDCgov/prime-simplereport-site/pull/537) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 week ago)
+- [Test](https://github.com/CDCgov/prime-simplereport/pull/5896) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [Link checker](https://github.com/CDCgov/prime-simplereport-site/pull/537) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (2 weeks ago)
 - [tfsec](https://github.com/CDCgov/prime-simplereport/pull/5878) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [tfsec](https://github.com/CDCgov/prime-simplereport/pull/5875) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
