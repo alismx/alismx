@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 week ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 week ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 week ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (8 months ago)
@@ -11,9 +11,9 @@
 #### 🔨 My recent Pull Requests
 
 - [Assigned reviewers for dependabot PRs](https://github.com/CDCgov/prime-simplereport-site/pull/547) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 week ago)
-- [Alis/wip](https://github.com/CDCgov/prime-simplereport/pull/5984) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [Testing workflow updates](https://github.com/CDCgov/prime-simplereport/pull/5984) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Fix deploys/slot swap](https://github.com/CDCgov/prime-simplereport/pull/5981) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Postgresql parameters for db query investigations](https://github.com/CDCgov/prime-simplereport/pull/5915) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [Postgresql parameters for db query investigations](https://github.com/CDCgov/prime-simplereport/pull/5915) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [Test](https://github.com/CDCgov/prime-simplereport/pull/5896) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 
 #### 📓 Gists I wrote
