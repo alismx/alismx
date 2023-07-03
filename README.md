@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (4 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (5 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 weeks ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (2 weeks ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (8 months ago)
@@ -10,10 +10,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CDN purge](https://github.com/CDCgov/prime-simplereport-site/pull/555) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (3 days ago)
-- [Remove CDN](https://github.com/CDCgov/prime-simplereport/pull/6052) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
-- [Container Zone Balancing](https://github.com/CDCgov/prime-simplereport/pull/6051) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
-- [Emails via Sendgrid](https://github.com/CDCgov/prime-simplereport/pull/6044) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [CDN purge](https://github.com/CDCgov/prime-simplereport-site/pull/555) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (4 days ago)
+- [Remove CDN](https://github.com/CDCgov/prime-simplereport/pull/6052) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
+- [Container Zone Balancing](https://github.com/CDCgov/prime-simplereport/pull/6051) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [Emails via Sendgrid](https://github.com/CDCgov/prime-simplereport/pull/6044) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Assigned reviewers for dependabot PRs](https://github.com/CDCgov/prime-simplereport-site/pull/547) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (2 weeks ago)
 
 #### 📓 Gists I wrote
