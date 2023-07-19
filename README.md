@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Alis wip](https://github.com/CDCgov/prime-simplereport/pull/6118) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Dependabot updates](https://github.com/CDCgov/prime-simplereport/pull/6157) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Alis wip](https://github.com/CDCgov/prime-simplereport/pull/6118) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Case for preloaded libraries](https://github.com/CDCgov/prime-simplereport/pull/6111) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [CDN purge](https://github.com/CDCgov/prime-simplereport-site/pull/555) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (2 weeks ago)
 - [Remove CDN](https://github.com/CDCgov/prime-simplereport/pull/6052) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
-- [Container Zone Balancing](https://github.com/CDCgov/prime-simplereport/pull/6051) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
