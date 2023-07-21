@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Dependabot updates](https://github.com/CDCgov/prime-simplereport/pull/6157) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Update ua parser gs version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6189) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (today)
+- [Update json5 version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6183) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Update semver version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6182) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Dependabot updates](https://github.com/CDCgov/prime-simplereport/pull/6157) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
 - [Alis wip](https://github.com/CDCgov/prime-simplereport/pull/6118) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Case for preloaded libraries](https://github.com/CDCgov/prime-simplereport/pull/6111) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [CDN purge](https://github.com/CDCgov/prime-simplereport-site/pull/555) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (3 weeks ago)
-- [Remove CDN](https://github.com/CDCgov/prime-simplereport/pull/6052) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
