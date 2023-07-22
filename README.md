@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 month ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 month ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (9 months ago)
@@ -10,10 +10,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update ua parser gs version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6189) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (today)
-- [Update json5 version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6183) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Update semver version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6182) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Dependabot updates](https://github.com/CDCgov/prime-simplereport/pull/6157) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [Update ua parser gs version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6189) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Update json5 version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6183) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Update semver version to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6182) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Dependabot updates](https://github.com/CDCgov/prime-simplereport/pull/6157) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
 - [Alis wip](https://github.com/CDCgov/prime-simplereport/pull/6118) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
