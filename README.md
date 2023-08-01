@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (6 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 month ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 month ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (9 months ago)
@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;update several storybook packages&#34;](https://github.com/alismx/prime-simplereport/pull/20) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (5 days ago)
-- [update several storybook packages](https://github.com/alismx/prime-simplereport/pull/19) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (6 days ago)
-- [Alis/storybook](https://github.com/CDCgov/prime-simplereport/pull/6207) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
-- [Revert &#34;update several storybook packages&#34;](https://github.com/alismx/prime-simplereport/pull/18) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (6 days ago)
-- [update several storybook packages](https://github.com/alismx/prime-simplereport/pull/17) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (6 days ago)
+- [Update json5 to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6234) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Update node-fetch resolution to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6233) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Revert &#34;update several storybook packages&#34;](https://github.com/alismx/prime-simplereport/pull/20) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (6 days ago)
+- [update several storybook packages](https://github.com/alismx/prime-simplereport/pull/19) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (1 week ago)
+- [Alis/storybook](https://github.com/CDCgov/prime-simplereport/pull/6207) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
 
