@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update json5 to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6234) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Update node-fetch resolution to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6233) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Revert &#34;update several storybook packages&#34;](https://github.com/alismx/prime-simplereport/pull/20) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (6 days ago)
-- [update several storybook packages](https://github.com/alismx/prime-simplereport/pull/19) on [alismx/prime-simplereport](https://github.com/alismx/prime-simplereport) (1 week ago)
-- [Alis/storybook](https://github.com/CDCgov/prime-simplereport/pull/6207) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [update node-fetch](https://github.com/CDCgov/prime-simplereport/pull/6242) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [update resolutions](https://github.com/CDCgov/prime-simplereport/pull/6238) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Update minimatch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6237) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Update json5 to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6234) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Update node-fetch resolution to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6233) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
 
 #### 📓 Gists I wrote
 
