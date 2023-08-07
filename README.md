@@ -2,19 +2,19 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (3 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (4 days ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 month ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (9 months ago)
 - [skylight-hq/cdc-nbs-prop](https://github.com/skylight-hq/cdc-nbs-prop) - Copy of the SimpleReport repository for the NBS proposal (August 2022). (1 year ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update node-fetch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6242) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [Update package.json resolutions](https://github.com/CDCgov/prime-simplereport/pull/6238) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [Update minimatch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6237) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [Update json5 to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6234) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
-- [Update node-fetch resolution to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6233) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Update node-fetch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6242) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Update package.json resolutions](https://github.com/CDCgov/prime-simplereport/pull/6238) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Update minimatch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6237) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [Update json5 to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6234) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [Update node-fetch resolution to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6233) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
 
