@@ -2,18 +2,18 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (5 days ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (6 days ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 day ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (6 days ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (1 month ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (9 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [GH action](https://github.com/CDCgov/prime-simplereport/pull/6294) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Remove faker](https://github.com/CDCgov/prime-simplereport-site/pull/581) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 day ago)
+- [GH action](https://github.com/CDCgov/prime-simplereport/pull/6294) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
 - [Update node-fetch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6242) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Update package.json resolutions](https://github.com/CDCgov/prime-simplereport/pull/6238) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Update minimatch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6237) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Update json5 to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6234) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 
 #### 📓 Gists I wrote
 
