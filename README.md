@@ -2,18 +2,18 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (4 days ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 week ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 weeks ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (2 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (10 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [updates](https://github.com/CDCgov/prime-simplereport/pull/6350) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [Bump com.smartystreets.api:smartystreets-java-sdk from 3.13.15 to 3.14.0 in /backend &#43; gradle helper update](https://github.com/CDCgov/prime-simplereport/pull/6397) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Disable db validate jobs](https://github.com/CDCgov/prime-simplereport/pull/6395) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [updates](https://github.com/CDCgov/prime-simplereport/pull/6350) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
 - [Custom webhook payload](https://github.com/CDCgov/prime-simplereport/pull/6323) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Remove faker](https://github.com/CDCgov/prime-simplereport-site/pull/581) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 week ago)
-- [Update Liquibase workflows](https://github.com/CDCgov/prime-simplereport/pull/6294) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
-- [Update node-fetch to close security vulnerability](https://github.com/CDCgov/prime-simplereport/pull/6242) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
+- [Remove faker](https://github.com/CDCgov/prime-simplereport-site/pull/581) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
