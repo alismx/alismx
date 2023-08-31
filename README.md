@@ -3,18 +3,18 @@
 #### 🚀 What I'm currently working on
 
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
-- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (5 days ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (6 days ago)
+- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (1 day ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 week ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (2 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (10 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update Gradle lock workflow change](https://github.com/CDCgov/prime-simplereport/pull/6436) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [azurerm minor version update](https://github.com/CDCgov/prime-simplereport/pull/6413) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
-- [remove CDN purge instructions](https://github.com/CDCgov/prime-simplereport-site/pull/591) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (6 days ago)
-- [App service health checks for API and Metabase](https://github.com/CDCgov/prime-simplereport/pull/6407) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Bump com.smartystreets.api:smartystreets-java-sdk from 3.13.15 to 3.14.0 in /backend &#43; gradle helper update](https://github.com/CDCgov/prime-simplereport/pull/6397) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [feat: add multi-architecture build support to GitHub Actions workflow](https://github.com/CDCgov/prime-simplereport/pull/6457) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [fix: update actor check for Dependabot Gradle Helper](https://github.com/CDCgov/prime-simplereport/pull/6450) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Update Gradle lock workflow change](https://github.com/CDCgov/prime-simplereport/pull/6436) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [azurerm minor version update](https://github.com/CDCgov/prime-simplereport/pull/6413) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [remove CDN purge instructions](https://github.com/CDCgov/prime-simplereport-site/pull/591) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 week ago)
 
 #### 📓 Gists I wrote
 
