@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (1 day ago)
+- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (today)
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (4 weeks ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (3 months ago)
@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add GitHub action for automated container image cleanup](https://github.com/CDCgov/prime-simplereport/pull/6607) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (today)
+- [refactor: update instructions and command line options in README and …](https://github.com/alismx/gitmsg/pull/4) on [alismx/gitmsg](https://github.com/alismx/gitmsg) (today)
 - [feat: change GitHub event trigger from pull_request to pull_request_t…](https://github.com/CDCgov/prime-simplereport/pull/6601) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
 - [feat: add Pull Request description generation functionality](https://github.com/alismx/gitmsg/pull/2) on [alismx/gitmsg](https://github.com/alismx/gitmsg) (1 day ago)
 - [Deployment workflow updates](https://github.com/CDCgov/prime-simplereport/pull/6578) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
-- [refactor: use okta url variable for Okta domain in Header component](https://github.com/CDCgov/prime-simplereport/pull/6547) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [chore(terraform): upgrade azurerm and okta providers versions](https://github.com/CDCgov/prime-simplereport/pull/6490) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
