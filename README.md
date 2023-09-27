@@ -2,19 +2,19 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
-- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (4 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
+- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (5 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 month ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (3 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add permissions to github testing workflow](https://github.com/CDCgov/prime-simplereport/pull/6635) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Alis/test workflow perms](https://github.com/CDCgov/prime-simplereport/pull/6634) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [add permissions to testingWorkflow configuration](https://github.com/CDCgov/prime-simplereport/pull/6633) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [TF DB changes](https://github.com/CDCgov/prime-simplereport/pull/6632) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [feat: add GitHub action for automated container image cleanup](https://github.com/CDCgov/prime-simplereport/pull/6607) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
+- [feat: add permissions to github testing workflow](https://github.com/CDCgov/prime-simplereport/pull/6635) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Alis/test workflow perms](https://github.com/CDCgov/prime-simplereport/pull/6634) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [add permissions to testingWorkflow configuration](https://github.com/CDCgov/prime-simplereport/pull/6633) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [TF DB changes](https://github.com/CDCgov/prime-simplereport/pull/6632) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [feat: add GitHub action for automated container image cleanup](https://github.com/CDCgov/prime-simplereport/pull/6607) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
 
 #### 📓 Gists I wrote
 
