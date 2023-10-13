@@ -3,7 +3,7 @@
 #### 🚀 What I'm currently working on
 
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 week ago)
-- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (2 weeks ago)
+- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (3 weeks ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 month ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (4 months ago)
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (11 months ago)
