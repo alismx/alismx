@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Ignore tags](https://github.com/CDCgov/prime-simplereport/pull/6823) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
 - [GHCR: actions/delete-package-versions@v4](https://github.com/CDCgov/prime-simplereport/pull/6757) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [fix(postgres_db): rename key vault secret for environment consistency](https://github.com/CDCgov/prime-simplereport/pull/6695) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [Prod deployment changes](https://github.com/CDCgov/prime-simplereport/pull/6694) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [fix: hardcode environment details for demo and training deployment wo…](https://github.com/CDCgov/prime-simplereport/pull/6693) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
-- [fix: hardcode environment names in deployStg and deployTest workflows](https://github.com/CDCgov/prime-simplereport/pull/6690) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
