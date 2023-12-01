@@ -2,15 +2,15 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 week ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 week ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 weeks ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 weeks ago)
 - [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (2 months ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore(dependabot): update default reviewers for dependency updates](https://github.com/CDCgov/prime-simplereport-site/pull/625) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 week ago)
-- [chore(dependabot): update reviewers and add new package ecosystem for…](https://github.com/CDCgov/prime-simplereport/pull/6895) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
+- [chore(dependabot): update default reviewers for dependency updates](https://github.com/CDCgov/prime-simplereport-site/pull/625) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (2 weeks ago)
+- [chore(dependabot): update reviewers and add new package ecosystem for…](https://github.com/CDCgov/prime-simplereport/pull/6895) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [feat: enhance Terraform plan workflow with multi-environment support](https://github.com/CDCgov/prime-simplereport/pull/6826) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [feat: enhance Terraform plan workflow with multi-environment support](https://github.com/CDCgov/prime-simplereport/pull/6825) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [feat: Ignore tags](https://github.com/CDCgov/prime-simplereport/pull/6823) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
