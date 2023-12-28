@@ -9,8 +9,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update missed cert id](https://github.com/CDCgov/prime-simplereport/pull/7092) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Promote SSL Cert](https://github.com/CDCgov/prime-simplereport/pull/7091) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [Update missed cert id](https://github.com/CDCgov/prime-simplereport/pull/7092) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [Promote SSL Cert](https://github.com/CDCgov/prime-simplereport/pull/7091) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [SSL certificate for Azure Application Gateway](https://github.com/CDCgov/prime-simplereport/pull/7086) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [chore(dependabot): update default reviewers for dependency updates](https://github.com/CDCgov/prime-simplereport-site/pull/625) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 month ago)
 - [chore(dependabot): update reviewers and add new package ecosystem for…](https://github.com/CDCgov/prime-simplereport/pull/6895) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
