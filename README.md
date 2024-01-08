@@ -2,15 +2,15 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (4 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 month ago)
 - [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (3 months ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (6 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update package names in GitHub Container Registry cleanup workflow](https://github.com/CDCgov/prime-simplereport/pull/7135) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
-- [Alis/ghcr clean fix](https://github.com/CDCgov/prime-simplereport/pull/7134) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
+- [Update package names in GitHub Container Registry cleanup workflow](https://github.com/CDCgov/prime-simplereport/pull/7135) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [Alis/ghcr clean fix](https://github.com/CDCgov/prime-simplereport/pull/7134) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
 - [Update missed cert id](https://github.com/CDCgov/prime-simplereport/pull/7092) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [Promote SSL Cert](https://github.com/CDCgov/prime-simplereport/pull/7091) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
 - [SSL certificate for Azure Application Gateway](https://github.com/CDCgov/prime-simplereport/pull/7086) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 weeks ago)
