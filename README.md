@@ -2,15 +2,15 @@
 
 #### 🚀 What I'm currently working on
 
+- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (1 day ago)
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 week ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 months ago)
-- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (3 months ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update package names in GitHub Container Registry cleanup workflow](https://github.com/CDCgov/prime-simplereport/pull/7135) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [Alis/ghcr clean fix](https://github.com/CDCgov/prime-simplereport/pull/7134) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
+- [Update package names in GitHub Container Registry cleanup workflow](https://github.com/CDCgov/prime-simplereport/pull/7135) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
+- [Alis/ghcr clean fix](https://github.com/CDCgov/prime-simplereport/pull/7134) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [Update missed cert id](https://github.com/CDCgov/prime-simplereport/pull/7092) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [Promote SSL Cert](https://github.com/CDCgov/prime-simplereport/pull/7091) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [SSL certificate for Azure Application Gateway](https://github.com/CDCgov/prime-simplereport/pull/7086) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
