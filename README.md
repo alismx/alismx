@@ -2,14 +2,14 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
-- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (3 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
+- [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (4 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 months ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Update API rollback with slot swap](https://github.com/CDCgov/prime-simplereport/pull/7184) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [chore: Update API rollback with slot swap](https://github.com/CDCgov/prime-simplereport/pull/7184) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
 - [Update package names in GitHub Container Registry cleanup workflow](https://github.com/CDCgov/prime-simplereport/pull/7135) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [Alis/ghcr clean fix](https://github.com/CDCgov/prime-simplereport/pull/7134) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [Update missed cert id](https://github.com/CDCgov/prime-simplereport/pull/7092) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
