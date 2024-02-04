@@ -2,16 +2,16 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (4 days ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (3 days ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (5 days ago)
 - [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (2 weeks ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Refactor container cleaning workflow and include delay for dele…](https://github.com/CDCgov/prime-simplereport/pull/7237) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
-- [chore: remove deployment script and config for Dev7 environment](https://github.com/CDCgov/prime-simplereport-site/pull/652) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (4 days ago)
-- [chore: remove dev7](https://github.com/CDCgov/prime-simplereport/pull/7229) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [feat: Refactor container cleaning workflow and include delay for dele…](https://github.com/CDCgov/prime-simplereport/pull/7237) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (3 days ago)
+- [chore: remove deployment script and config for Dev7 environment](https://github.com/CDCgov/prime-simplereport-site/pull/652) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (5 days ago)
+- [chore: remove dev7](https://github.com/CDCgov/prime-simplereport/pull/7229) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
 - [chore: Update API rollback with slot swap](https://github.com/CDCgov/prime-simplereport/pull/7184) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 - [Update package names in GitHub Container Registry cleanup workflow](https://github.com/CDCgov/prime-simplereport/pull/7135) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
