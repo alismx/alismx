@@ -9,8 +9,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update postgres base image to alpine3.17](https://github.com/CDCgov/prime-simplereport/pull/7250) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [feat: Update GHCR cleanup script to delete tagged versions, keep 100](https://github.com/CDCgov/prime-simplereport/pull/7249) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [feat: update postgres base image to alpine3.17](https://github.com/CDCgov/prime-simplereport/pull/7250) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [feat: Update GHCR cleanup script to delete tagged versions, keep 100](https://github.com/CDCgov/prime-simplereport/pull/7249) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
 - [feat: Refactor container cleaning workflow and include delay for dele…](https://github.com/CDCgov/prime-simplereport/pull/7237) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [chore: remove deployment script and config for Dev7 environment](https://github.com/CDCgov/prime-simplereport-site/pull/652) on [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) (1 week ago)
 - [chore: remove dev7](https://github.com/CDCgov/prime-simplereport/pull/7229) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
