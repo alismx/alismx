@@ -9,8 +9,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(dependabot): add grouping for frontend npm package updates](https://github.com/CDCgov/prime-simplereport/pull/7342) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
-- [chore: upgrade smartystreets-javascript-sdk to v4.0.2 and axios to v1.6.7](https://github.com/CDCgov/prime-simplereport/pull/7315) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
