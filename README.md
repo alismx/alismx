@@ -2,16 +2,16 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 days ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (1 month ago)
 - [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (2 months ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (9 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update docker COPY and ADD commands for the .git directory](https://github.com/CDCgov/prime-simplereport/pull/7456) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [update replace .git from main branch](https://github.com/CDCgov/prime-simplereport/pull/7454) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
-- [Bump net.javacrumbs.shedlock:shedlock-provider-jdbc-template in /backend](https://github.com/CDCgov/prime-simplereport/pull/7453) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [Update docker COPY and ADD commands for the .git directory](https://github.com/CDCgov/prime-simplereport/pull/7456) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [update replace .git from main branch](https://github.com/CDCgov/prime-simplereport/pull/7454) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
+- [Bump net.javacrumbs.shedlock:shedlock-provider-jdbc-template in /backend](https://github.com/CDCgov/prime-simplereport/pull/7453) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
 
 #### 📓 Gists I wrote
 
