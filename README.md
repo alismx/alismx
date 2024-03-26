@@ -15,7 +15,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/a8c473968f0d87c0532944017f844363) (1 day ago)
+- [](https://gist.github.com/a8c473968f0d87c0532944017f844363) (2 days ago)
 - [Hidden content in markdown](https://gist.github.com/cffeb79c933f98279c46906f390fd3a0) (9 months ago)
 - [This creates a lock based on the existence of a file](https://gist.github.com/6bb524c02a636a478f49d7387f57869b) (11 months ago)
 - [This is a script to sync to s3 compatible tools (AWS S3, Digital Ocean Spaces)](https://gist.github.com/7a42ab3b5203a9eca579f0a80a9dc63b) (11 months ago)
@@ -23,11 +23,11 @@
 
 #### 👯 Recent followers
 
-- [LilaLio](https://github.com/LilaLio)
 - [robertmitchellv](https://github.com/robertmitchellv)
 - [Pingel88](https://github.com/Pingel88)
 - [BobanL](https://github.com/BobanL)
 - [DanPaseltiner](https://github.com/DanPaseltiner)
+- [bryan-skylight](https://github.com/bryan-skylight)
 
 #### ♾️ Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
