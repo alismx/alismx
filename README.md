@@ -9,10 +9,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [enable test isolation](https://github.com/CDCgov/prime-simplereport/pull/7590) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [update node_version and azurerm to support node 20](https://github.com/CDCgov/prime-simplereport/pull/7595) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 day ago)
+- [enable test isolation](https://github.com/CDCgov/prime-simplereport/pull/7590) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 days ago)
 - [Update docker COPY and ADD commands for the .git directory](https://github.com/CDCgov/prime-simplereport/pull/7456) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 - [update replace .git from main branch](https://github.com/CDCgov/prime-simplereport/pull/7454) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
-- [Bump net.javacrumbs.shedlock:shedlock-provider-jdbc-template in /backend](https://github.com/CDCgov/prime-simplereport/pull/7453) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
 #### 📓 Gists I wrote
 
