@@ -3,15 +3,15 @@
 #### 🚀 What I'm currently working on
 
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 month ago)
-- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (2 months ago)
+- [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (3 months ago)
 - [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (3 months ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (10 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [base branch with debug logs](https://github.com/CDCgov/prime-simplereport/pull/7610) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 days ago)
-- [update node_version and azurerm to support node 20](https://github.com/CDCgov/prime-simplereport/pull/7595) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
-- [enable test isolation](https://github.com/CDCgov/prime-simplereport/pull/7590) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [base branch with debug logs](https://github.com/CDCgov/prime-simplereport/pull/7610) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (5 days ago)
+- [update node_version and azurerm to support node 20](https://github.com/CDCgov/prime-simplereport/pull/7595) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [enable test isolation](https://github.com/CDCgov/prime-simplereport/pull/7590) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Update docker COPY and ADD commands for the .git directory](https://github.com/CDCgov/prime-simplereport/pull/7456) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
 #### 📓 Gists I wrote
