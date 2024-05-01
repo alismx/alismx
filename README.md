@@ -9,7 +9,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [base branch with debug logs](https://github.com/CDCgov/prime-simplereport/pull/7610) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (6 days ago)
+- [base branch with debug logs](https://github.com/CDCgov/prime-simplereport/pull/7610) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [update node_version and azurerm to support node 20](https://github.com/CDCgov/prime-simplereport/pull/7595) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [enable test isolation](https://github.com/CDCgov/prime-simplereport/pull/7590) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 week ago)
 - [Update docker COPY and ADD commands for the .git directory](https://github.com/CDCgov/prime-simplereport/pull/7456) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
