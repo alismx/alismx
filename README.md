@@ -9,7 +9,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Draft](https://github.com/CDCgov/phdi/pull/1773) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (6 days ago)
+- [Draft](https://github.com/CDCgov/phdi/pull/1773) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (1 week ago)
 - [base branch with debug logs](https://github.com/CDCgov/prime-simplereport/pull/7610) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (2 weeks ago)
 
 #### 📓 Gists I wrote
