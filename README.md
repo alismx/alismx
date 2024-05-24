@@ -9,8 +9,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Deploy and Octopus workflows](https://github.com/CDCgov/phdi/pull/1773) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (2 weeks ago)
-- [base branch with debug logs](https://github.com/CDCgov/prime-simplereport/pull/7610) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (4 weeks ago)
+- [Deploy and Octopus workflows](https://github.com/CDCgov/phdi/pull/1773) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (3 weeks ago)
+- [base branch with debug logs](https://github.com/CDCgov/prime-simplereport/pull/7610) on [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) (1 month ago)
 
 #### 📓 Gists I wrote
 
