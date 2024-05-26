@@ -2,14 +2,14 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (2 months ago)
+- [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 day ago)
 - [CDCgov/prime-simplereport-site](https://github.com/CDCgov/prime-simplereport-site) - Landing / marketing site for the SimpleReport application (3 months ago)
 - [alismx/gitmsg](https://github.com/alismx/gitmsg) -  (4 months ago)
 - [SpielBorg/.github](https://github.com/SpielBorg/.github) -  (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (1 day ago)
+- [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (2 days ago)
 - [Deploy and Octopus workflows](https://github.com/CDCgov/phdi/pull/1773) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (3 weeks ago)
 
 #### 📓 Gists I wrote
