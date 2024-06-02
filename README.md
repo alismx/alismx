@@ -10,7 +10,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (1 week ago)
-- [Deploy and Octopus workflows](https://github.com/CDCgov/phdi/pull/1773) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (4 weeks ago)
+- [Deploy and Octopus workflows](https://github.com/CDCgov/phdi/pull/1773) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (1 month ago)
 
 #### 📓 Gists I wrote
 
