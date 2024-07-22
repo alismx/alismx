@@ -10,12 +10,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [OIDC adjustments 🧑‍🔧 ](https://github.com/CDCgov/dibbs-aws/pull/10) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (4 days ago)
+- [OIDC adjustments 🧑‍🔧 ](https://github.com/CDCgov/dibbs-aws/pull/10) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (5 days ago)
 - [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (1 month ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/a8c473968f0d87c0532944017f844363) (3 months ago)
+- [](https://gist.github.com/a8c473968f0d87c0532944017f844363) (4 months ago)
 - [Hidden content in markdown](https://gist.github.com/cffeb79c933f98279c46906f390fd3a0) (1 year ago)
 - [This creates a lock based on the existence of a file](https://gist.github.com/6bb524c02a636a478f49d7387f57869b) (1 year ago)
 - [This is a script to sync to s3 compatible tools (AWS S3, Digital Ocean Spaces)](https://gist.github.com/7a42ab3b5203a9eca579f0a80a9dc63b) (1 year ago)
