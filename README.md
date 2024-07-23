@@ -2,7 +2,7 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 week ago)
+- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 day ago)
 - [CDCgov/phdi](https://github.com/CDCgov/phdi) -  (1 week ago)
 - [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) -  (1 week ago)
 - [CDCgov/prime-simplereport](https://github.com/CDCgov/prime-simplereport) - SimpleReport is a fast, free, and easy way for COVID-19 testing facilities to report results to public health departments. (1 month ago)
@@ -10,8 +10,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [OIDC adjustments 🧑‍🔧 ](https://github.com/CDCgov/dibbs-aws/pull/10) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (5 days ago)
-- [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (1 month ago)
+- [OIDC adjustments 🧑‍🔧 ](https://github.com/CDCgov/dibbs-aws/pull/10) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (6 days ago)
+- [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (2 months ago)
 
 #### 📓 Gists I wrote
 
