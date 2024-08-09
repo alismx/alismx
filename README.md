@@ -2,16 +2,16 @@
 
 #### 🚀 What I'm currently working on
 
-- [alismx/diagrams](https://github.com/alismx/diagrams) -  (1 day ago)
-- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (3 days ago)
+- [alismx/diagrams](https://github.com/alismx/diagrams) -  (2 days ago)
+- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (4 days ago)
 - [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 week ago)
 - [CDCgov/phdi](https://github.com/CDCgov/phdi) -  (4 weeks ago)
-- [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) -  (4 weeks ago)
+- [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [ALB as internal/internet facing 🥅 ](https://github.com/CDCgov/dibbs-aws/pull/12) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (3 days ago)
-- [use rds security group](https://github.com/CDCgov/phdi-playground/pull/84) on [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) (3 days ago)
+- [ALB as internal/internet facing 🥅 ](https://github.com/CDCgov/dibbs-aws/pull/12) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (4 days ago)
+- [use rds security group](https://github.com/CDCgov/phdi-playground/pull/84) on [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) (4 days ago)
 - [Update tfvars file](https://github.com/CDCgov/dibbs-aws/pull/11) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 week ago)
 - [OIDC adjustments 🧑‍🔧 ](https://github.com/CDCgov/dibbs-aws/pull/10) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (3 weeks ago)
 - [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (2 months ago)
@@ -26,11 +26,11 @@
 
 #### 👯 Recent followers
 
+- [machikoyasuda](https://github.com/machikoyasuda)
 - [robertmitchellv](https://github.com/robertmitchellv)
 - [Pingel88](https://github.com/Pingel88)
 - [BobanL](https://github.com/BobanL)
 - [DanPaseltiner](https://github.com/DanPaseltiner)
-- [bryan-skylight](https://github.com/bryan-skylight)
 
 #### ♾️ Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
