@@ -2,19 +2,19 @@
 
 #### 🚀 What I'm currently working on
 
-- [alismx/diagrams](https://github.com/alismx/diagrams) -  (2 days ago)
-- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (4 days ago)
+- [alismx/diagrams](https://github.com/alismx/diagrams) -  (3 days ago)
+- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (5 days ago)
 - [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 week ago)
-- [CDCgov/phdi](https://github.com/CDCgov/phdi) -  (4 weeks ago)
+- [CDCgov/phdi](https://github.com/CDCgov/phdi) -  (1 month ago)
 - [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [ALB as internal/internet facing 🥅 ](https://github.com/CDCgov/dibbs-aws/pull/12) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (4 days ago)
-- [use rds security group](https://github.com/CDCgov/phdi-playground/pull/84) on [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) (4 days ago)
+- [Simplify module requirements](https://github.com/CDCgov/dibbs-aws/pull/14) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 day ago)
+- [ALB as internal/internet facing 🥅 ](https://github.com/CDCgov/dibbs-aws/pull/12) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (5 days ago)
+- [use rds security group](https://github.com/CDCgov/phdi-playground/pull/84) on [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) (5 days ago)
 - [Update tfvars file](https://github.com/CDCgov/dibbs-aws/pull/11) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 week ago)
 - [OIDC adjustments 🧑‍🔧 ](https://github.com/CDCgov/dibbs-aws/pull/10) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (3 weeks ago)
-- [Octopus Tentacle Image](https://github.com/CDCgov/dibbs-cloud/pull/80) on [CDCgov/dibbs-cloud](https://github.com/CDCgov/dibbs-cloud) (2 months ago)
 
 #### 📓 Gists I wrote
 
