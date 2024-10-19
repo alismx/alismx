@@ -2,11 +2,11 @@
 
 #### 🚀 What I'm currently working on
 
-- [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (3 days ago)
-- [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (3 days ago)
+- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (1 day ago)
+- [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (4 days ago)
+- [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (4 days ago)
 - [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (3 weeks ago)
 - [alismx/dimages](https://github.com/alismx/dimages) -  (2 months ago)
-- [alismx/diagrams](https://github.com/alismx/diagrams) -  (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -14,7 +14,7 @@
 - [break demo](https://github.com/CDCgov/dibbs-aws/pull/27) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
 - [fix for demo](https://github.com/CDCgov/dibbs-aws/pull/26) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
 - [update private subnets so they can pull from ecr](https://github.com/CDCgov/dibbs-aws/pull/25) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
-- [update private subnets so they can pull from ecr](https://github.com/CDCgov/dibbs-aws/pull/24) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
+- [QoL updates ✅ ](https://github.com/CDCgov/dibbs-aws/pull/24) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
