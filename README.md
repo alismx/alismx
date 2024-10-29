@@ -3,8 +3,8 @@
 #### 🚀 What I'm currently working on
 
 - [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (1 week ago)
-- [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (1 week ago)
-- [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (1 week ago)
+- [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (2 weeks ago)
+- [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (2 weeks ago)
 - [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 month ago)
 - [alismx/dimages](https://github.com/alismx/dimages) -  (2 months ago)
 
