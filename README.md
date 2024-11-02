@@ -11,10 +11,10 @@
 #### 🔨 My recent Pull Requests
 
 - [update private subnets so they can pull from ecr](https://github.com/alismx/terraform-aws-dibbs/pull/1) on [alismx/terraform-aws-dibbs](https://github.com/alismx/terraform-aws-dibbs) (3 weeks ago)
-- [break demo](https://github.com/CDCgov/dibbs-aws/pull/27) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (4 weeks ago)
-- [fix for demo](https://github.com/CDCgov/dibbs-aws/pull/26) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (4 weeks ago)
-- [update private subnets so they can pull from ecr](https://github.com/CDCgov/dibbs-aws/pull/25) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (4 weeks ago)
-- [QoL updates ✅ ](https://github.com/CDCgov/dibbs-aws/pull/24) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (4 weeks ago)
+- [break demo](https://github.com/CDCgov/dibbs-aws/pull/27) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 month ago)
+- [fix for demo](https://github.com/CDCgov/dibbs-aws/pull/26) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 month ago)
+- [update private subnets so they can pull from ecr](https://github.com/CDCgov/dibbs-aws/pull/25) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 month ago)
+- [QoL updates ✅ ](https://github.com/CDCgov/dibbs-aws/pull/24) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 month ago)
 
 #### 📓 Gists I wrote
 
