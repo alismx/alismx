@@ -2,15 +2,15 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (2 days ago)
-- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (3 days ago)
+- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (3 days ago)
+- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (4 days ago)
 - [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (4 weeks ago)
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (1 month ago)
 - [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Provider versions may increment patch 🔼](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/7) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (3 days ago)
+- [Provider versions may increment patch 🔼](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/7) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (4 days ago)
 - [remove duped content from README](https://github.com/CDCgov/dibbs-aws/pull/42) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 week ago)
 - [Linting, security scans and docs 🥇 ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/1) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 week ago)
 - [Use Terraform registry: CDCgov/dibbs-ecr-viewer/aws ☁️ ](https://github.com/CDCgov/dibbs-aws/pull/40) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 week ago)
