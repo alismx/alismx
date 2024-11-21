@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add tflint workflow for all terraform directories](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 day ago)
+- [Allow SSL cert and port 443 setup 🔒 ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/9) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 day ago)
+- [update with example of getting a cert to use](https://github.com/CDCgov/dibbs-aws/pull/46) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 day ago)
 - [Provider versions may increment patch 🔼](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/7) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 week ago)
-- [remove duped content from README](https://github.com/CDCgov/dibbs-aws/pull/42) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 week ago)
-- [Linting, security scans and docs 🥇 ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/1) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (2 weeks ago)
-- [Use Terraform registry: CDCgov/dibbs-ecr-viewer/aws ☁️ ](https://github.com/CDCgov/dibbs-aws/pull/40) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
-- [GitHub action updates](https://github.com/CDCgov/dibbs-aws/pull/39) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
+- [remove duped content from README](https://github.com/CDCgov/dibbs-aws/pull/42) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
