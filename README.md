@@ -2,19 +2,19 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 week ago)
-- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (1 week ago)
+- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 day ago)
+- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (1 day ago)
 - [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (1 month ago)
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (1 month ago)
 - [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [add tflint workflow for all terraform directories](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 day ago)
-- [Allow SSL cert and port 443 setup 🔒 ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/9) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 day ago)
-- [update with example of getting a cert to use](https://github.com/CDCgov/dibbs-aws/pull/46) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 day ago)
-- [Provider versions may increment patch 🔼](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/7) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 week ago)
-- [remove duped content from README](https://github.com/CDCgov/dibbs-aws/pull/42) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
+- [initial docker compose configuration with dibbs&#43;portainer servers, an…](https://github.com/CDCgov/dibbs-vm/pull/13) on [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm) (1 day ago)
+- [Connection options for Metadata Database ℹ️ ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/11) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 day ago)
+- [Keep it clean, tflint 🧹 ](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 days ago)
+- [Allow SSL cert and port 443 setup 🔒 ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/9) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (2 days ago)
+- [Cert to enable SSL](https://github.com/CDCgov/dibbs-aws/pull/46) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 days ago)
 
 #### 📓 Gists I wrote
 
