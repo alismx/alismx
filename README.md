@@ -2,19 +2,19 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (4 days ago)
-- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (5 days ago)
+- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 day ago)
+- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (5 days ago)
 - [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (1 month ago)
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (1 month ago)
 - [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fixes the missing aws secrets manager data object](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/12) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (4 days ago)
-- [initial docker compose configuration with dibbs&#43;portainer servers, an…](https://github.com/CDCgov/dibbs-vm/pull/13) on [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm) (5 days ago)
-- [Connection options for Metadata Database ℹ️ ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/11) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (5 days ago)
-- [Keep it clean, tflint 🧹 ](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (6 days ago)
-- [Allow SSL cert and port 443 setup 🔒 ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/9) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (6 days ago)
+- [update phdi_version variable &#43; issue tempates 📜 ](https://github.com/CDCgov/dibbs-aws/pull/48) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 day ago)
+- [Fixes the missing aws secrets manager data object](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/12) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (5 days ago)
+- [initial docker compose configuration with dibbs&#43;portainer servers, an…](https://github.com/CDCgov/dibbs-vm/pull/13) on [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm) (6 days ago)
+- [Connection options for Metadata Database ℹ️ ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/11) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (6 days ago)
+- [Keep it clean, tflint 🧹 ](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 week ago)
 
 #### 📓 Gists I wrote
 
