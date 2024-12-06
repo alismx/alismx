@@ -3,7 +3,7 @@
 #### 🚀 What I'm currently working on
 
 - [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 week ago)
-- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (1 week ago)
+- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (2 weeks ago)
 - [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (1 month ago)
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (1 month ago)
 - [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (1 month ago)
@@ -11,7 +11,7 @@
 #### 🔨 My recent Pull Requests
 
 - [update phdi_version &#43; issue tempates 📜 ](https://github.com/CDCgov/dibbs-aws/pull/48) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (1 week ago)
-- [Fixes the missing aws secrets manager data object](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/12) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 week ago)
+- [Fixes the missing aws secrets manager data object](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/12) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (2 weeks ago)
 - [Docker Compose (ECR Viewer, Query Connector) &#43;portainer 🐳 ](https://github.com/CDCgov/dibbs-vm/pull/13) on [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm) (2 weeks ago)
 - [Connection options for Metadata Database ℹ️ ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/11) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (2 weeks ago)
 - [Keep it clean, tflint 🧹 ](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
@@ -26,11 +26,11 @@
 
 #### 👯 Recent followers
 
+- [DanielSass](https://github.com/DanielSass)
 - [machikoyasuda](https://github.com/machikoyasuda)
 - [robertmitchellv](https://github.com/robertmitchellv)
 - [Pingel88](https://github.com/Pingel88)
 - [BobanL](https://github.com/BobanL)
-- [DanPaseltiner](https://github.com/DanPaseltiner)
 
 #### ♾️ Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
