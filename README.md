@@ -10,11 +10,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add basic autoscaling based on mem and cpu usage](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/13) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 day ago)
+- [Load testing script for process-zip 🤐 ](https://github.com/CDCgov/phdi/pull/3032) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (1 day ago)
 - [update phdi_version &#43; issue tempates 📜 ](https://github.com/CDCgov/dibbs-aws/pull/48) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
 - [Fixes the missing aws secrets manager data object](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/12) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (2 weeks ago)
 - [Docker Compose (ECR Viewer, Query Connector) &#43;portainer 🐳 ](https://github.com/CDCgov/dibbs-vm/pull/13) on [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm) (2 weeks ago)
-- [Connection options for Metadata Database ℹ️ ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/11) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (2 weeks ago)
-- [Keep it clean, tflint 🧹 ](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
