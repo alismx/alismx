@@ -2,17 +2,17 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (5 days ago)
-- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (5 days ago)
-- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (1 month ago)
+- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (6 days ago)
+- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (6 days ago)
+- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (2 months ago)
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (2 months ago)
 - [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) -  (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [add basic autoscaling based on mem and cpu usage](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/13) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (6 days ago)
-- [Load testing script for process-zip 🤐 ](https://github.com/CDCgov/phdi/pull/3032) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (6 days ago)
-- [update phdi_version &#43; issue tempates 📜 ](https://github.com/CDCgov/dibbs-aws/pull/48) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (2 weeks ago)
+- [add basic autoscaling based on mem and cpu usage](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/13) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (1 week ago)
+- [Load testing script for process-zip 🤐 ](https://github.com/CDCgov/phdi/pull/3032) on [CDCgov/phdi](https://github.com/CDCgov/phdi) (1 week ago)
+- [update phdi_version &#43; issue tempates 📜 ](https://github.com/CDCgov/dibbs-aws/pull/48) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) (3 weeks ago)
 - [Fixes the missing aws secrets manager data object](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/12) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) (3 weeks ago)
 - [Docker Compose (ECR Viewer, Query Connector) &#43;portainer 🐳 ](https://github.com/CDCgov/dibbs-vm/pull/13) on [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm) (3 weeks ago)
 
