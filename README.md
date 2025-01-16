@@ -2,10 +2,10 @@
 
 #### 🚀 What I'm currently working on
 
-- [CDCgov/phdi](https://github.com/CDCgov/phdi) -  (3 weeks ago)
+- [CDCgov/phdi](https://github.com/CDCgov/phdi) -  (4 weeks ago)
 - [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) -  (1 month ago)
 - [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) -  (1 month ago)
-- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (2 months ago)
+- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) -  (3 months ago)
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) -  (3 months ago)
 
 #### 🔨 My recent Pull Requests
