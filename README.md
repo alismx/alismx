@@ -26,11 +26,11 @@
 
 #### 👯 Recent followers
 
+- [joesghub](https://github.com/joesghub)
 - [DanielSass](https://github.com/DanielSass)
 - [machikoyasuda](https://github.com/machikoyasuda)
 - [robertmitchellv](https://github.com/robertmitchellv)
 - [Pingel88](https://github.com/Pingel88)
-- [BobanL](https://github.com/BobanL)
 
 #### ♾️ Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
