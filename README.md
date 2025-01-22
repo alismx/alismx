@@ -65,3 +65,17 @@
 
 #### ♾️ Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
+
+#### 📈 My certifications
+
+##### Microsoft
+
+[<img align="left" alt="azure-fundamentals" width="25" src="./assets/azurefundamentals.png" />Azure Fundamentals](https://www.credly.com/badges/460c0273-ed19-4f0c-8d38-4ee994dfeb22/public_url)
+
+##### A Cloud Guru (formerly Linux Academy)
+[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />Essential Container Concepts]
+[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />LPI Linux Essentials]
+[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />Kubernetes Essentials]
+[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />AWS Concepts]
+[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />AWS Essentials]
+[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />DevOps Essentials]
