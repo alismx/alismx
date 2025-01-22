@@ -26,12 +26,12 @@ I'm Alis, a software engineer with a passion for open-source, cloud-native techn
 {{- end}}
 
 ### 📓 My gists
-{{range gists 10}}
+{{range gists 5}}
 - [{{.Description}}]({{.URL}})
 {{- end}}
 
 ### 👯 Recent followers
-{{range followers 10}}
+{{range followers 3}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
