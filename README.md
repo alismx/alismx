@@ -13,16 +13,16 @@
 
 #### 🚀 My work
 
-- [alismx/skills-copilot-codespaces-vscode](https://github.com/alismx/skills-copilot-codespaces-vscode) - My clone repository
-- [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown) - My clone repository
-- [alismx/skills-introduction-to-github](https://github.com/alismx/skills-introduction-to-github) - My clone repository
-- [CDCgov/phdi](https://github.com/CDCgov/phdi) - 
-- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer) - 
-- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws) - 
-- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground) - 
-- [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) - 
-- [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) - 
-- [alismx/dimages](https://github.com/alismx/dimages) - 
+- [alismx/skills-copilot-codespaces-vscode](https://github.com/alismx/skills-copilot-codespaces-vscode)
+- [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown)
+- [alismx/skills-introduction-to-github](https://github.com/alismx/skills-introduction-to-github)
+- [CDCgov/phdi](https://github.com/CDCgov/phdi)
+- [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
+- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
+- [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground)
+- [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup)
+- [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs)
+- [alismx/dimages](https://github.com/alismx/dimages)
 
 #### 🌱 My pull requests
 
