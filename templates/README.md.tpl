@@ -1,17 +1,23 @@
 ### Hi there 👋
 
+[<img align="left" alt="skylight-work" width="100" src="https://skylight.digital/img/people/alis-akers.png" />](https://skylight.digital/work/team-member/alis-akers/)
+</br>
+</br>
+- [CDC SimpleReport](https://skylight.digital/work/experience/cdc-simplereport/)
+  - A free tool that makes it easy for non-traditional and under-resourced disease testing sites to record results for diagnostic tests and quickly report data to public health departments.
+ 
+- [CDC DIBBS](https://skylight.digital/work/experience/cdc-dibbs/)
+  - An open-source, modular toolkit designed to automate data processing, reduce manual effort, and address critical data challenges within a modern public health data infrastructure.
+
+- [CDC Cloud Enablement](https://skylight.digital/work/experience/cdc-dibbs-cloud-enablement/)
+  - Enabling public health agencies with flexible cloud hosting options so they can leverage modern, cloud-based software solutions with fewer costs and maintenance burdens.
+
 #### 🚀 My work
-[<img align="left" alt="skylight-work" src="https://skylight.digital/img/people/alis-akers.png" />](https://skylight.digital/work/team-member/alis-akers/)
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
-#### 🌱 My projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-#### 🔨 My pull requests
+#### 🌱 My pull requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
 {{- end}}
