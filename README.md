@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋 
+
+I'm Alis, a software engineer with a passion for open-source, cloud-native technologies, and public health. I'm currently working at [Skylight](https://skylight.digital) on projects that enable public health agencies to leverage modern, cloud-based software solutions. Feel free to follow me on GitHub or connect with me on LinkedIn. 
+
+[<img alt="alismx-linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)<br>
 
 - [Skylight Projects](https://skylight.digital/work/team-member/alis-akers/)
 
@@ -11,7 +15,7 @@
   - [CDC SimpleReport](https://skylight.digital/work/experience/cdc-simplereport/)
     - A free tool that makes it easy for non-traditional and under-resourced disease testing sites to record results for diagnostic tests and quickly report data to public health departments.
 
-#### 🚀 My work
+### 🚀 My work
 
 - [alismx/skills-copilot-codespaces-vscode](https://github.com/alismx/skills-copilot-codespaces-vscode)
 - [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown)
@@ -24,7 +28,7 @@
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs)
 - [alismx/dimages](https://github.com/alismx/dimages)
 
-#### 🌱 My pull requests
+### 🌱 My pull requests
 
 - [Start markdown](https://github.com/alismx/skills-communicate-using-markdown/pull/1) on [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown)
 - [Add my first file](https://github.com/alismx/skills-introduction-to-github/pull/1) on [alismx/skills-introduction-to-github](https://github.com/alismx/skills-introduction-to-github)
@@ -37,7 +41,7 @@
 - [Keep it clean, tflint 🧹 ](https://github.com/CDCgov/dibbs-aws/pull/47) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
 - [Allow SSL cert and port 443 setup 🔒 ](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/9) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
 
-#### 📓 My gists
+### 📓 My gists
 
 - [](https://gist.github.com/a8c473968f0d87c0532944017f844363)
 - [Hidden content in markdown](https://gist.github.com/cffeb79c933f98279c46906f390fd3a0)
@@ -50,7 +54,7 @@
 - [GitHub workflow to run format, validation, and plan checks against Terraform configuration.](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41)
 - [GitHub action and workflow to set swap space. It feels hacky. Use it if you are running into memory issues on large builds.](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff)
 
-#### 👯 Recent followers
+### 👯 Recent followers
 
 - [joesghub](https://github.com/joesghub)
 - [DanielSass](https://github.com/DanielSass)
@@ -63,19 +67,22 @@
 - [StevenSpeck](https://github.com/StevenSpeck)
 - [emyl3](https://github.com/emyl3)
 
-#### ♾️ Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)
+### 📈 My certifications
 
-#### 📈 My certifications
-
-##### Microsoft
+#### Microsoft
 
 [<img align="left" alt="azure-fundamentals" width="25" src="./assets/azurefundamentals.png" />Azure Fundamentals](https://www.credly.com/badges/460c0273-ed19-4f0c-8d38-4ee994dfeb22/public_url)
 
-##### A Cloud Guru (formerly Linux Academy)
-[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />Essential Container Concepts]
-[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />LPI Linux Essentials]
-[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />Kubernetes Essentials]
-[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />AWS Concepts]
-[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />AWS Essentials]
-[<img align="left" alt="azure-fundamentals" width="25" src="./assets/linuxacademy.png" />DevOps Essentials]
+#### Pluralsight (A Cloud Guru, formerly Linux Academy)
+
+[<img align="left" alt="Essential-Container-Concepts" width="25" src="./assets/linuxacademy.jpeg" />Essential Container Concepts](https://app.pluralsight.com/profile/alismx)
+
+[<img align="left" alt="LPI-Linux-Essentials" width="25" src="./assets/linuxacademy.jpeg" />LPI Linux Essentials](https://app.pluralsight.com/profile/alismx)
+
+[<img align="left" alt="Kubernetes-Essentials" width="25" src="./assets/linuxacademy.jpeg" />Kubernetes Essentials](https://app.pluralsight.com/profile/alismx)
+
+[<img align="left" alt="AWS-Concepts" width="25" src="./assets/linuxacademy.jpeg" />AWS Concepts](https://app.pluralsight.com/profile/alismx)
+
+[<img align="left" alt="AWS-Essentials" width="25" src="./assets/linuxacademy.jpeg" />AWS Essentials](https://app.pluralsight.com/profile/alismx)
+
+[<img align="left" alt="DevOps-Essentials" width="25" src="./assets/linuxacademy.jpeg" />DevOps Essentials](https://app.pluralsight.com/profile/alismx)
