@@ -13,7 +13,7 @@
 
 #### 🚀 My work
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+- [{{.Repo.Name}}]({{.Repo.URL}})
 {{- end}}
 
 #### 🌱 My pull requests
