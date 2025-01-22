@@ -1,6 +1,8 @@
-## Hi there 👋 
+# Hi there 👋 
 
-I'm Alis, a software engineer with a passion for open-source, cloud-native technologies, and public health. I'm currently working at [Skylight](https://skylight.digital) on projects that enable public health agencies to leverage modern, cloud-based software solutions. Feel free to follow me on GitHub or connect with me on LinkedIn. 
+I'm Alis, a software engineer with a passion for open-source, cloud-native technologies, and public health. I'm currently working at [Skylight](https://skylight.digital) on projects that enable public health agencies to leverage modern, cloud-based software solutions. Feel free to follow me on [GitHub](https://github.com/alismx) or connect with me on [LinkedIn](https://www.linkedin.com/in/alismx). 
+
+[<img align="left" href="https://github.com/alismx" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/alismx)
 
 [<img alt="alismx-linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alismx)<br>
 
