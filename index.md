@@ -1,7 +1,18 @@
 ### Hi there 👋
 
+[<img align="left" alt="skylight-work" width="100" src="https://skylight.digital/img/people/alis-akers.png" />](https://skylight.digital/work/team-member/alis-akers/)
+</br>
+</br>
+- [CDC SimpleReport](https://skylight.digital/work/experience/cdc-simplereport/)
+  - A free tool that makes it easy for non-traditional and under-resourced disease testing sites to record results for diagnostic tests and quickly report data to public health departments.
+ 
+- [CDC DIBBS](https://skylight.digital/work/experience/cdc-dibbs/)
+  - An open-source, modular toolkit designed to automate data processing, reduce manual effort, and address critical data challenges within a modern public health data infrastructure.
+
+- [CDC Cloud Enablement](https://skylight.digital/work/experience/cdc-dibbs-cloud-enablement/)
+  - Enabling public health agencies with flexible cloud hosting options so they can leverage modern, cloud-based software solutions with fewer costs and maintenance burdens.
+
 #### 🚀 My work
-[<img align="left" alt="skylight-work" src="https://skylight.digital/img/people/alis-akers.png" />](https://skylight.digital/work/team-member/alis-akers/)
 
 - [alismx/skills-copilot-codespaces-vscode](https://github.com/alismx/skills-copilot-codespaces-vscode) - My clone repository
 - [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown) - My clone repository
@@ -14,18 +25,7 @@
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) - 
 - [alismx/dimages](https://github.com/alismx/dimages) - 
 
-#### 🌱 My projects
-
-- [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown) - My clone repository
-- [alismx/skills-copilot-codespaces-vscode](https://github.com/alismx/skills-copilot-codespaces-vscode) - My clone repository
-- [alismx/skills-introduction-to-github](https://github.com/alismx/skills-introduction-to-github) - My clone repository
-- [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup) - 
-- [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs) - 
-- [alismx/dimages](https://github.com/alismx/dimages) - 
-- [alismx/diagrams](https://github.com/alismx/diagrams) - 
-- [alismx/gitmsg](https://github.com/alismx/gitmsg) - 
-
-#### 🔨 My pull requests
+#### 🌱 My pull requests
 
 - [Start markdown](https://github.com/alismx/skills-communicate-using-markdown/pull/1) on [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown)
 - [Add my first file](https://github.com/alismx/skills-introduction-to-github/pull/1) on [alismx/skills-introduction-to-github](https://github.com/alismx/skills-introduction-to-github)
