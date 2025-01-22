@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-[<img align="left" alt="skylight-work" width="100" src="https://skylight.digital/img/people/alis-akers.png" />](https://skylight.digital/work/team-member/alis-akers/)
-</br>
-</br>
-- [CDC SimpleReport](https://skylight.digital/work/experience/cdc-simplereport/)
-  - A free tool that makes it easy for non-traditional and under-resourced disease testing sites to record results for diagnostic tests and quickly report data to public health departments.
- 
-- [CDC DIBBS](https://skylight.digital/work/experience/cdc-dibbs/)
-  - An open-source, modular toolkit designed to automate data processing, reduce manual effort, and address critical data challenges within a modern public health data infrastructure.
+- [Skylight Projects](https://skylight.digital/work/team-member/alis-akers/)
 
-- [CDC Cloud Enablement](https://skylight.digital/work/experience/cdc-dibbs-cloud-enablement/)
-  - Enabling public health agencies with flexible cloud hosting options so they can leverage modern, cloud-based software solutions with fewer costs and maintenance burdens.
+  - [CDC Cloud Enablement](https://skylight.digital/work/experience/cdc-dibbs-cloud-enablement/)
+    - Enabling public health agencies with flexible cloud hosting options so they can leverage modern, cloud-based software solutions with fewer costs and maintenance burdens.
+
+  - [CDC DIBBS](https://skylight.digital/work/experience/cdc-dibbs/)
+    - An open-source, modular toolkit designed to automate data processing, reduce manual effort, and address critical data challenges within a modern public health data infrastructure.
+
+  - [CDC SimpleReport](https://skylight.digital/work/experience/cdc-simplereport/)
+    - A free tool that makes it easy for non-traditional and under-resourced disease testing sites to record results for diagnostic tests and quickly report data to public health departments.
 
 #### 🚀 My work
 {{range recentContributions 10}}
