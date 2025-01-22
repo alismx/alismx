@@ -1,22 +1,28 @@
 ### Hi there 👋
 
-#### 🚀 What I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+#### 🚀 My work
+[<img align="left" alt="skylight-work" src="https://skylight.digital/img/people/alis-akers.png" />](https://skylight.digital/work/team-member/alis-akers/)
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+#### 🌱 My projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+#### 🔨 My pull requests
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
+{{- end}}
+
+#### 📓 My gists
+{{range gists 10}}
+- [{{.Description}}]({{.URL}})
 {{- end}}
 
 #### 👯 Recent followers
-{{range followers 5}}
+{{range followers 10}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
