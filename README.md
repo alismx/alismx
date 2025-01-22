@@ -48,24 +48,12 @@ I'm Alis, a software engineer with a passion for open-source, cloud-native techn
 - [This creates a lock based on the existence of a file](https://gist.github.com/6bb524c02a636a478f49d7387f57869b)
 - [This is a script to sync to s3 compatible tools (AWS S3, Digital Ocean Spaces)](https://gist.github.com/7a42ab3b5203a9eca579f0a80a9dc63b)
 - [Python script to generate fake data](https://gist.github.com/ea13a03b628e2d682334c0adf38400c5)
-- [Script to handle some liquibase commands related to checksums and rollbacks](https://gist.github.com/ac68b4781c7c500bf5c2aa9bd4aaff7c)
-- [I put this in my profile so when I open a new tab I get some random ascii ¯\_(ツ)_/¯](https://gist.github.com/83356d96cf13b233743234e44baa31a9)
-- [Bash function to check what is running on a specified port.](https://gist.github.com/ce30489841fdedc021675981308a399e)
-- [GitHub workflow to run format, validation, and plan checks against Terraform configuration.](https://gist.github.com/0295eabded9fd7994e0e04b86accdc41)
-- [GitHub action and workflow to set swap space. It feels hacky. Use it if you are running into memory issues on large builds.](https://gist.github.com/1c13dca8dc96ed4947f016aae19aacff)
 
 ### 👯 Recent followers
 
 - [joesghub](https://github.com/joesghub)
 - [DanielSass](https://github.com/DanielSass)
 - [machikoyasuda](https://github.com/machikoyasuda)
-- [robertmitchellv](https://github.com/robertmitchellv)
-- [Pingel88](https://github.com/Pingel88)
-- [BobanL](https://github.com/BobanL)
-- [DanPaseltiner](https://github.com/DanPaseltiner)
-- [bryan-skylight](https://github.com/bryan-skylight)
-- [StevenSpeck](https://github.com/StevenSpeck)
-- [emyl3](https://github.com/emyl3)
 
 ### 📈 My certifications
 
