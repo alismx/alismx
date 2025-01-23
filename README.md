@@ -19,8 +19,9 @@ I'm Alis, a software engineer with a passion for open-source, cloud-native techn
 
 ### 🚀 My work
 
-- [alismx/skills-copilot-codespaces-vscode](https://github.com/alismx/skills-copilot-codespaces-vscode)
+- [alismx/alismx.github.io](https://github.com/alismx/alismx.github.io)
 - [alismx/skills-communicate-using-markdown](https://github.com/alismx/skills-communicate-using-markdown)
+- [alismx/skills-copilot-codespaces-vscode](https://github.com/alismx/skills-copilot-codespaces-vscode)
 - [alismx/skills-introduction-to-github](https://github.com/alismx/skills-introduction-to-github)
 - [CDCgov/phdi](https://github.com/CDCgov/phdi)
 - [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
@@ -28,7 +29,6 @@ I'm Alis, a software engineer with a passion for open-source, cloud-native techn
 - [CDCgov/phdi-playground](https://github.com/CDCgov/phdi-playground)
 - [alismx/dibbs-tfmodule-setup](https://github.com/alismx/dibbs-tfmodule-setup)
 - [alismx/dibbs-tfmodule-ecs](https://github.com/alismx/dibbs-tfmodule-ecs)
-- [alismx/dimages](https://github.com/alismx/dimages)
 
 ### 🌱 My pull requests
 
