@@ -20,18 +20,20 @@ I'm Alis, a DevOps engineer passionate about open-source, cloud-native technolog
 ### 🚀 My work
 
 - [alismx/alismx.github.io](https://github.com/alismx/alismx.github.io)
+- [alismx/hugo-theme-stack-starter](https://github.com/alismx/hugo-theme-stack-starter)
 - [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
 - [CDCgov/dibbs-query-connector](https://github.com/CDCgov/dibbs-query-connector)
 - [CDCgov/dibbs-ecr-refiner](https://github.com/CDCgov/dibbs-ecr-refiner)
 - [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm)
 - [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
-- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
 - [alismx/DevOpsMemes](https://github.com/alismx/DevOpsMemes)
+- [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
 - [skylight-hq/dibbs-landing](https://github.com/skylight-hq/dibbs-landing)
-- [CDCgov/RecordLinker](https://github.com/CDCgov/RecordLinker)
 
 ### 🌱 My pull requests
 
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/alismx/alismx.github.io/pull/6) on [alismx/alismx.github.io](https://github.com/alismx/alismx.github.io)
+- [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/alismx/alismx.github.io/pull/5) on [alismx/alismx.github.io](https://github.com/alismx/alismx.github.io)
 - [refactor: remove validation service configuration and related environ…](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/37) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
 - [chore: add Dependabot configuration for npm, docker and terraform wee…](https://github.com/CDCgov/dibbs-query-connector/pull/738) on [CDCgov/dibbs-query-connector](https://github.com/CDCgov/dibbs-query-connector)
 - [chore: add Dependabot config for npm, pip, docker, and docker-compose…](https://github.com/CDCgov/dibbs-ecr-refiner/pull/194) on [CDCgov/dibbs-ecr-refiner](https://github.com/CDCgov/dibbs-ecr-refiner)
@@ -40,8 +42,6 @@ I'm Alis, a DevOps engineer passionate about open-source, cloud-native technolog
 - [feat(github-actions): update AWS dev deploy workflow](https://github.com/CDCgov/dibbs-ecr-viewer/pull/942) on [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
 - [feat: add gitsha to build scripts and packer configuration](https://github.com/CDCgov/dibbs-vm/pull/73) on [CDCgov/dibbs-vm](https://github.com/CDCgov/dibbs-vm)
 - [refactor(trigger-dev-workflow): remove redundant response handling fr…](https://github.com/CDCgov/dibbs-ecr-viewer/pull/927) on [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
-- [feat: add repository_dispatch trigger and tf_branch option](https://github.com/CDCgov/dibbs-aws/pull/72) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
-- [feat: add METADATA_DATABASE_MIGRATION_SECRET configuration and variable](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/36) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
 
 ### 📓 My gists
 
