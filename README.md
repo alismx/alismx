@@ -30,6 +30,9 @@ I'm Alis, a DevOps engineer passionate about open-source, cloud-native technolog
 
 ### 🌱 My pull requests
 
+- [chore: update site navigation, colors, and plugins](https://github.com/alismx/alismx.github.io/pull/14) on [alismx/alismx.github.io](https://github.com/alismx/alismx.github.io)
+- [docs: migrate gitleaks post and add Bandit SAST post](https://github.com/alismx/alismx.github.io/pull/13) on [alismx/alismx.github.io](https://github.com/alismx/alismx.github.io)
+- [docs: migrate blog and docs structure](https://github.com/alismx/alismx.github.io/pull/12) on [alismx/alismx.github.io](https://github.com/alismx/alismx.github.io)
 - [feat(security): add inspector2:Enable and update ECS module ref](https://github.com/CDCgov/dibbs-aws/pull/97) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
 - [refactor: move SQLi_BODY to count](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/56) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
 - [fix(ecs): update ECS module ref to commit with WAF fix](https://github.com/CDCgov/dibbs-aws/pull/96) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
@@ -37,9 +40,6 @@ I'm Alis, a DevOps engineer passionate about open-source, cloud-native technolog
 - [refactor: restructure ECS README into user-focused deployment guide](https://github.com/CDCgov/dibbs-ecr-viewer/pull/1459) on [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
 - [feat: add eCR Viewer VM deployment scripts and README rewrite](https://github.com/CDCgov/dibbs-ecr-viewer/pull/1435) on [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
 - [feat: add complete deployment infrastructure for eCR Viewer](https://github.com/CDCgov/dibbs-ecr-viewer/pull/1423) on [CDCgov/dibbs-ecr-viewer](https://github.com/CDCgov/dibbs-ecr-viewer)
-- [chore(security): harden RDS, EC2, security groups, OIDC, and deployment workflows](https://github.com/CDCgov/dibbs-aws/pull/94) on [CDCgov/dibbs-aws](https://github.com/CDCgov/dibbs-aws)
-- [Adding fhir-converter-proxy](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer/pull/54) on [CDCgov/terraform-aws-dibbs-ecr-viewer](https://github.com/CDCgov/terraform-aws-dibbs-ecr-viewer)
-- [docs (#2)](https://github.com/alismx/dibbs-cloud-tools/pull/3) on [alismx/dibbs-cloud-tools](https://github.com/alismx/dibbs-cloud-tools)
 
 ### 📓 My gists
 
